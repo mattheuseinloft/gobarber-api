@@ -1,13 +1,18 @@
 <h1 align="center">
-    💈GoBarber API
+  <img alt="GoStack"
+    src="https://res.cloudinary.com/lukemorales/image/upload/v1564533051/readme_logos/gobarber_hg5ddx.png"
+    width="200px"
+  />
+  <br>
+    GoBarber API
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/gobarber-api">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/gobarber-api?color=%23FF9000">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mattheuseinloft/gobarber-api">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mattheuseinloft/gobarber-api?color=%23FF9000">
 
-  <img alt="License" src="https://img.shields.io/github/license/mattheuseinloft/gobarber-api">
+  <img alt="License" src="https://img.shields.io/github/license/mattheuseinloft/gobarber-api?color=%23FF9000">
 </p>
 
 <p align="center">
