@@ -35,13 +35,13 @@ This project is being developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/): Programming language
 - [Node.js](https://nodejs.org/): Server-side JavaScript runtime environment
 - [Express](https://expressjs.com/): Web framework for Node.js
-- [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) and [EditorConfig](https://editorconfig.org/): Code standardization and formatting
+- [ESLint](https://eslint.org/), [Prettier](https://prettier.io/) & [EditorConfig](https://editorconfig.org/): Code standardization and formatting
 - [date-fns](https://date-fns.org/): Date manipulation
 - [uuidv4](https://www.npmjs.com/package/uuidv4): Generation of Universally unique identifiers
 - [PostgreSQL](https://www.postgresql.org/): Relational database management system
 - [TypeORM](https://typeorm.io/): ORM for TypeScript
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata): Metadata Reflection
-- [bcryptjs](https://www.npmjs.com/package/bcryptjs) and [JWT](https://jwt.io/): User Authentication
+- [bcryptjs](https://www.npmjs.com/package/bcryptjs) & [JWT](https://jwt.io/): User Authentication
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/mattheuseinloft/gobarber-api/blob/master/LICENSE) for more information.
