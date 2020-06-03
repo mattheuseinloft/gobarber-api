@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img alt="GoStack"
-    src="https://res.cloudinary.com/lukemorales/image/upload/v1564533051/readme_logos/gobarber_hg5ddx.png"
+  <img alt="GoBarber"
+    src=".github/logo.svg"
     width="200px"
   />
   <br>
-    GoBarber API
 </h1>
 
 <p align="center">
@@ -18,6 +17,7 @@
 <p align="center">
   <a href="#gear-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-how-to-run">How To Run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -42,6 +42,31 @@ This project is being developed with the following technologies:
 - [TypeORM](https://typeorm.io/): ORM for TypeScript
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata): Metadata Reflection
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs) & [JWT](https://jwt.io/): User Authentication
+
+## :computer: How To Run
+
+### Requirements
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/)
+- [Docker](https://www.docker.com/)
+- Run a container using [PostgreSQL Image](https://hub.docker.com/_/postgres)
+
+### Running the application
+From your command line:
+```bash
+# Clone this repository
+$ git clone https://github.com/mattheuseinloft/gobarber-api
+
+# Move to the application directory
+$ cd gobarber-web
+
+# Install dependencies
+$ yarn
+
+# Start the backend server
+$ yarn dev:server
+```
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/mattheuseinloft/gobarber-api/blob/master/LICENSE) for more information.
