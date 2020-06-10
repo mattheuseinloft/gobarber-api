@@ -1,10 +1,15 @@
 <h1 align="center">
-  <img alt="GoBarber"
+  <img alt="GoBarber API"
     src=".github/logo.svg"
     width="200px"
   />
   <br>
+  GoBarber API
 </h1>
+
+<h4 align="center">
+  💈Node.js back-end for GoBarber, a barber scheduling application
+</h4>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mattheuseinloft/gobarber-api?color=%23FF9000">
