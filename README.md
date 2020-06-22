@@ -47,6 +47,7 @@ This project is being developed with the following technologies:
 - [TypeORM](https://typeorm.io/): ORM for TypeScript
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata): Metadata Reflection
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs) & [JWT](https://jwt.io/): User Authentication
+- [TSyringe](https://github.com/microsoft/tsyringe)
 
 ## :computer: How To Run
 
