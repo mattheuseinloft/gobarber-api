@@ -48,6 +48,7 @@ This project is being developed with the following technologies:
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata): Metadata Reflection
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs) & [JWT](https://jwt.io/): User Authentication
 - [TSyringe](https://github.com/microsoft/tsyringe)
+- [Jest](https://jestjs.io/)
 
 ## :computer: How To Run
 
