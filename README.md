@@ -51,6 +51,7 @@ This project is being developed with the following technologies:
 - [TSyringe](https://github.com/microsoft/tsyringe): Dependency injection
 - [Jest](https://jestjs.io/): Tests in JavaScript/TypeScript
 - [Nodemailer](https://nodemailer.com/): Email sending
+- [Handlebars](https://handlebarsjs.com/): Email templates
 
 ## :computer: How To Run
 
