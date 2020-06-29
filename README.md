@@ -32,6 +32,7 @@
 - [Insomnia](https://insomnia.rest/): REST client
 - [Docker](https://www.docker.com/): Container virtualization
 - [DBeaver](https://dbeaver.io/): PostgreSQL client
+- [Ethereal](https://ethereal.email/): Fake SMTP service to test email in development
 
 ## :rocket: Technologies
 
@@ -47,8 +48,9 @@ This project is being developed with the following technologies:
 - [TypeORM](https://typeorm.io/): ORM for TypeScript
 - [reflect-metadata](https://www.npmjs.com/package/reflect-metadata): Metadata Reflection
 - [bcryptjs](https://www.npmjs.com/package/bcryptjs) & [JWT](https://jwt.io/): User Authentication
-- [TSyringe](https://github.com/microsoft/tsyringe)
-- [Jest](https://jestjs.io/)
+- [TSyringe](https://github.com/microsoft/tsyringe): Dependency injection
+- [Jest](https://jestjs.io/): Tests in JavaScript/TypeScript
+- [Nodemailer](https://nodemailer.com/): Email sending
 
 ## :computer: How To Run
 
