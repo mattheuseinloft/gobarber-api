@@ -33,6 +33,7 @@
 - [Docker](https://www.docker.com/): Container virtualization
 - [DBeaver](https://dbeaver.io/): PostgreSQL client
 - [Ethereal](https://ethereal.email/): Fake SMTP service to test email in development
+- [MongoDB Compass](https://www.mongodb.com/products/compass): GUI for MongoDB
 
 ## :rocket: Technologies
 
@@ -52,6 +53,7 @@ This project is being developed with the following technologies:
 - [Jest](https://jestjs.io/): Tests in JavaScript/TypeScript
 - [Nodemailer](https://nodemailer.com/): Email sending
 - [Handlebars](https://handlebarsjs.com/): Email templates
+- [MongoDB](https://www.mongodb.com/): Non-relational database management system
 
 ## :computer: How To Run
 
@@ -61,6 +63,7 @@ This project is being developed with the following technologies:
 - [Yarn](https://yarnpkg.com/)
 - [Docker](https://www.docker.com/)
 - Run a container using [PostgreSQL Image](https://hub.docker.com/_/postgres)
+- Run a container using [MongoDB Image](https://hub.docker.com/_/mongo)
 
 ### Running the application
 From your command line:
