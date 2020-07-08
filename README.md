@@ -55,6 +55,7 @@ This project is being developed with the following technologies:
 - [Handlebars](https://handlebarsjs.com/): Email templates
 - [MongoDB](https://www.mongodb.com/): Non-relational database management system
 - [celebrate](https://github.com/arb/celebrate): A joi validation middleware for Express
+- [dotenv](https://www.npmjs.com/package/dotenv): Environment variables management
 
 ## :computer: How To Run
 
