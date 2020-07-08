@@ -54,6 +54,7 @@ This project is being developed with the following technologies:
 - [Nodemailer](https://nodemailer.com/): Email sending
 - [Handlebars](https://handlebarsjs.com/): Email templates
 - [MongoDB](https://www.mongodb.com/): Non-relational database management system
+- [celebrate](https://github.com/arb/celebrate): A joi validation middleware for Express
 
 ## :computer: How To Run
 
