@@ -57,6 +57,7 @@ This project is being developed with the following technologies:
 - [celebrate](https://github.com/arb/celebrate): A joi validation middleware for Express
 - [dotenv](https://www.npmjs.com/package/dotenv): Environment variables management
 - [class-transformer](https://github.com/typestack/class-transformer)
+- [aws-sdk](https://www.npmjs.com/package/aws-sdk)
 
 ## :computer: How To Run
 
