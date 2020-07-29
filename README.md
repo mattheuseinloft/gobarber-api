@@ -61,6 +61,8 @@ This project is being developed with the following technologies:
 - [class-transformer](https://github.com/typestack/class-transformer)
 - [aws-sdk](https://www.npmjs.com/package/aws-sdk)
 - [mime](https://www.npmjs.com/package/mime)
+- [Redis](https://redis.io/): Cache Database
+- [ioredis](https://github.com/luin/ioredis): Redis client for Node.js
 
 ## :computer: How To Run
 
@@ -71,6 +73,7 @@ This project is being developed with the following technologies:
 - [Docker](https://www.docker.com/)
 - Run a container using [PostgreSQL Image](https://hub.docker.com/_/postgres)
 - Run a container using [MongoDB Image](https://hub.docker.com/_/mongo)
+- Run a container using [Redis Image](https://hub.docker.com/_/redis)
 
 ### Running the application
 From your command line:
