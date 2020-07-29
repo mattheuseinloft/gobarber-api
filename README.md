@@ -34,6 +34,8 @@
 - [DBeaver](https://dbeaver.io/): PostgreSQL client
 - [Ethereal](https://ethereal.email/): Fake SMTP service to test email in development
 - [MongoDB Compass](https://www.mongodb.com/products/compass): GUI for MongoDB
+- [Amazon SES](https://aws.amazon.com/ses/): Email service in production
+- [Amazon S3](https://aws.amazon.com/s3/): File upload in production
 
 ## :rocket: Technologies
 
@@ -58,6 +60,7 @@ This project is being developed with the following technologies:
 - [dotenv](https://www.npmjs.com/package/dotenv): Environment variables management
 - [class-transformer](https://github.com/typestack/class-transformer)
 - [aws-sdk](https://www.npmjs.com/package/aws-sdk)
+- [mime](https://www.npmjs.com/package/mime)
 
 ## :computer: How To Run
 
