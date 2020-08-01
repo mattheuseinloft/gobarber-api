@@ -61,8 +61,9 @@ This project is being developed with the following technologies:
 - [class-transformer](https://github.com/typestack/class-transformer)
 - [aws-sdk](https://www.npmjs.com/package/aws-sdk)
 - [mime](https://www.npmjs.com/package/mime)
-- [Redis](https://redis.io/): Cache Database
+- [Redis](https://redis.io/)
 - [ioredis](https://github.com/luin/ioredis): Redis client for Node.js
+- [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
 
 ## :computer: How To Run
 
