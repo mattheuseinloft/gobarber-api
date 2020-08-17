@@ -72,6 +72,10 @@ This project is being developed with the following technologies:
 - [Node.js](https://nodejs.org/)
 - [Yarn](https://yarnpkg.com/)
 - [Docker](https://www.docker.com/)
+- Environment variables in .env file
+- TypeORM configuration in ormconfig.json
+- Create a connection with Postgres and create a database "gostack_gobarber"
+- Run migrations (yarn typeorm migration:run)
 - Run a container using [PostgreSQL Image](https://hub.docker.com/_/postgres)
 - Run a container using [MongoDB Image](https://hub.docker.com/_/mongo)
 - Run a container using [Redis Image](https://hub.docker.com/_/redis)
